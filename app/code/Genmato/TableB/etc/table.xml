@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<table xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../TableXml/etc/table.xsd">
+    <row id="row1">
+        <column id="col2" sort="10" attr1="val2">
+            <label>Col 2</label>
+        </column>
+    </row>
+    <row id="row2">
+        <column id="col1" sort="10" attr1="val5" />
+    </row>
+</table>
